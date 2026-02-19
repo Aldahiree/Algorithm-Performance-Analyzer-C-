@@ -72,7 +72,7 @@ cout << "\n";
 // main
 int main() {
 
-const int size = 10;
+const int size = 5000;
 
 int normalArr[size];
 int a1[size], a2[size], a3[size], a4[size];
